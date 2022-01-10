@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = yassin.mehlil@gmail.com
+	name = Yassin Mehlil
